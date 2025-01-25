@@ -36,8 +36,8 @@ This project focuses on:
    cd reborn-as-a-calculator
    ```
 2. Open the project
-   2a. Open Project in Replit and press run on main.c (Recommended)
-   2b. Download an executable file
+   1. Open Project in Replit and press run on main.c (Recommended) or
+   2. Download an executable file
       
 ---
 
